@@ -60,11 +60,6 @@ Used networking commands to test IP connectivity, check TCP port 22 and investig
 <img width="748" height="380" alt="image" src="https://github.com/user-attachments/assets/50343333-dc63-4bf8-a8d1-34343e4de61b" />
 
 
-
-## Evidence
-
-Screenshots documenting the lab environment, SSH connection, file uploads, file downloads and connectivity tests are stored in the `screenshots/` directory.
-
 ## Skills Demonstrated
 
 - Linux command-line fundamentals
@@ -81,7 +76,7 @@ This lab helped me understand how SSH provides remote command-line access, how S
 
 ## Project Status
 
-Update this section to reflect the tasks actually completed and tested.
+Completed.
 
 ## Future Improvements
 

@@ -48,10 +48,18 @@ Created a test file in WSL, transferred it to Kali using SCP, and verified the f
 ### 4. File Transfer: Kali to WSL
 
 Created a test file on Kali, downloaded it to WSL using SCP, and verified the transferred content.
+<img width="752" height="152" alt="image" src="https://github.com/user-attachments/assets/6cf7d42a-65c8-4090-b9bb-d66ae6dc183d" />
+<img width="833" height="340" alt="image" src="https://github.com/user-attachments/assets/566d5425-e62b-484e-a742-8657ec59417d" />
+
+
 
 ### 5. Network Troubleshooting
 
 Used networking commands to test IP connectivity, check TCP port 22 and investigate SSH connection issues.
+<img width="867" height="390" alt="image" src="https://github.com/user-attachments/assets/b5ed25f7-3917-47ef-b924-1936f225096f" />
+<img width="748" height="380" alt="image" src="https://github.com/user-attachments/assets/50343333-dc63-4bf8-a8d1-34343e4de61b" />
+
+
 
 ## Evidence
 
